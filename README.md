@@ -77,6 +77,6 @@ The dataset represents a Swiggy-like food delivery system and includes:
 🌸 Hey, I'm Dipti Rani Sahu  
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-💼 LinkedIn:[Dipti Rani Sahu](www.linkedin.com/in/dipti-rani-sahu)
+💼 LinkedIn:[Dipti Rani Sahu](https://www.linkedin.com/in/dipti-rani-sahu)
 
 📫 Email:iamdiptirani@gmail.com
