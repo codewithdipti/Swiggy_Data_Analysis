@@ -62,7 +62,7 @@ The dataset represents a Swiggy-like food delivery system and includes:
 - Repeat customers significantly contribute to total sales
 
 ##  Dashboard Preview
-![Swiggy Data Analysis](swiggy dashboard iamge)
+![Swiggy Data Analysis](swiggy dashboard iamge.png)
 
 ##  Business Impact
 - Enables real-time monitoring of sales and orders
