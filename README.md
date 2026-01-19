@@ -62,7 +62,7 @@ The dataset represents a Swiggy-like food delivery system and includes:
 - Repeat customers significantly contribute to total sales
 
 ##  Dashboard Preview
-![Swiggy Dashboard](images/swiggy_dashboard.png)
+![Swiggy Data Analysis](swiggy dashboard iamge)
 
 ##  Business Impact
 - Enables real-time monitoring of sales and orders
@@ -70,6 +70,7 @@ The dataset represents a Swiggy-like food delivery system and includes:
 - Supports better workforce and delivery planning
 - Improves customer retention strategies
 - Enhances decision-making through data-driven insights
+  
 
 ## Conclusion
 -The Swiggy Data Analysis Dashboard demonstrates strong skills in data cleaning, modeling, visualization, and analytical storytelling. It reflects real-world business intelligence use cases in the food-tech domain and is suitable for portfolio, academic, and interview purposes.
